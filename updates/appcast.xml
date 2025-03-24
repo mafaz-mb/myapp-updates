@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Dummy Update Test</title>
+    <link>https://mafaz-mb.github.io/myapp-updates/</link>
+    <item>
+      <title>Dummy Update v1.0.1</title>
+      <sparkle:releaseNotesLink>https://mafaz-mb.github.io/myapp-updates/updates/releasenotes.html</sparkle:releaseNotesLink>
+      <enclosure url="https://file-examples.com/wp-content/storage/2017/02/zip_10MB.zip"
+                 sparkle:version="1.0.1"
+                 length="10485760"
+                 type="application/zip" />
+    </item>
+  </channel>
+</rss>
